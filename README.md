@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyus1997" alt="abhimanyus1997" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyus1997&theme=juicyfresh&title=Commits,Repository,Stars,Followers&no-frame=true&margin-w=50" alt="abhimanyus1997"  /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhimanyus1997" target="blank"><img src="https://img.shields.io/twitter/follow/abhimanyus1997?logo=twitter&style=for-the-badge" alt="abhimanyus1997" /></a> </p>
 
