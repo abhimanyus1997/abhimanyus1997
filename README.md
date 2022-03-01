@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhimanyu</h1>
-<h3 align="center">A passionate Robotics Engineer from India</h3>
+<h3 align="center">A passionate Robotics & Mechanical Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" /> </p>
 
