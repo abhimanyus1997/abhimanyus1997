@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning ** Python, ML, CV, Web3, Blender ...**
 
-- 📫 How to reach me **abhimanyus1997@gmail.com**
+- 📫 How to reach me **abhimanyus1997+github@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
