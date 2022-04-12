@@ -9,7 +9,7 @@
 
 - 🤖I’m currently doing **Masters in Automation & Robotics**
 
-- 🌱 I’m currently learning **ROS, Python, Web3, Blender ...**
+- 🌱 I’m currently learning ** Python, ML, CV, Web3, Blender ...**
 
 - 📫 How to reach me **abhimanyus1997@gmail.com**
 
