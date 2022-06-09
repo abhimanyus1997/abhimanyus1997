@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Abhimanyu</h1>
-<h3 align="center">A passionate Robotics & Mechanical Engineer from India</h3>
+<h2 align="center" style="font-family:'Monospace'">Hi 👋, I'm Abhimanyu</h2>
+<Kbd> A Robotics Engineer having hands-on experience of handling Robots & Sensors using IoT over cloud and analysing+visualising data Using MATLAB/Python </kbd>
+</br>  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyus1997&theme=juicyfresh&title=Commits,Repository,Stars,Followers&no-frame=true&margin-w=50" alt="abhimanyus1997"  /></a> </p>
+<p align="left" style="margin-left:auto;margin-right:auto; width:100%;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhimanyus1997&theme=juicyfresh&title=Commits,Repository,Stars,Followers&no-frame=true&margin-w=50" alt="abhimanyus1997"  /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abhimanyus1997" target="blank"><img src="https://img.shields.io/twitter/follow/abhimanyus1997?logo=twitter&style=for-the-badge" alt="abhimanyus1997" /></a> </p>
 
