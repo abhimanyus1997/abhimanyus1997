@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family:'Monospace'">Hi 👋, I'm Abhimanyu</h2>
-<Kbd> A Robotics Engineer having hands-on experience of handling Robots & Sensors using IoT over cloud and analysing+visualising data Using MATLAB/Python </kbd>
+<Kbd> A Robotics Engineer having hands-on experience of handling Robots & Sensors using IoT over cloud and Analysing and Visualising data Using MATLAB/Python </kbd>
 </br>  
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" /> </p>
 
