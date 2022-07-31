@@ -98,12 +98,12 @@
 	</a>
 	    <br>HTML 5
     </td>
-    <td align="center" width="100" title="Ionic">
-	<a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"  alt="ionic" width="40"
+    <td align="center" width="100" title="Raspberry">
+	<a href="https://https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberry" width="40"
 		height="40" />
 	</a>
-	    <br>Ionic
+	    <br>Raspberry Pi
     </td>
 </tr>
 <tr>
