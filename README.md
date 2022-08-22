@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family:'Monospace'">Hi 👋, I'm Abhimanyu</h2>
-<kbd align='center'> A Robotics Engineer having hands-on experience of handling Robots & Sensors using IoT over cloud and Analysing and Visualising data Using MATLAB/Python </kbd>
+<kbd align='center'> A Robotics Engineer having hands-on experience of handling Robots & Sensors using IoT over cloud and Analysing, Visualising data Using MATLAB/Python and Prediction using Machine Learning/Deep Learning</kbd>
 </br>  
 
 <p align="right" style="display: inline; margin-top:50"> 
@@ -144,6 +144,14 @@
 		height="40" />
 	</a>
 	    <br>OpenCV
+    </td>
+</tr>
+<tr>
+    <td align="center" width="100" title="Tensorflow 2.0">
+	<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tesnorflow" width="40" height="40" />
+	</a>
+	    <br>Tensorflow 2.0
     </td>
 </tr>
 </table>
