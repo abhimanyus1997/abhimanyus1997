@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family:'Monospace'">Hi <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt='👋' height='25'>, I'm Abhimanyu</h2>
-<kbd align='center'> A Robotics Engineer having hands-on experience of handling Robots & Sensors using IoT over cloud and Analysing, Visualising data Using MATLAB/Python and Prediction using Machine Learning/Deep Learning</kbd>
+<div align='center'> Robotics Engineering - Post Graduate Student having doing some Machine Learning + Deep Learning + Computer Vision along with IoT</div>
 </br>  
 
 <p align="right" style="display: inline; margin-top:50"> 
