@@ -2,22 +2,25 @@
 <div align='center'> Robotics Engineering - Post Graduate Student having experience in Machine Learning + Deep Learning + Computer Vision along with IoT</div>
 </br>  
 
-<p align="right" style="display: inline; margin-top:50"> 
-  <a href="https://twitter.com/abhimanyus1997" target="blank"><img src="https://img.shields.io/twitter/follow/abhimanyus1997?logo=twitter&style=for-the-badge" alt="abhimanyus1997" height="20px"/></a> 
-  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" height="20px"/> </p>
-</p>
+<div>
+	<p align="right" style="display: inline; margin-top:50"> 
+	  <a href="https://twitter.com/abhimanyus1997" target="blank"> <img src="https://img.shields.io/twitter/follow/abhimanyus1997?logo=twitter&style=for-the-badge" alt="abhimanyus1997" height="20px"/></a>    
+	  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" height="20px"/> </p>
+	</p>
+</div>
 
 - 🤖I’m currently doing **Masters in Automation & Robotics**
 
 - 🌱 I’m currently learning ** Python, ROS, ML, CV, Web3 ...**
 
+- 🌏 Visit <a href="https://abhimanyus1997.github.io" target="blank" title="Abhimanyu's portfolio"> My Portfolio </a>
+
 - 📫 How to reach me **[Mail Me](mailto://abhimanyus1997+github@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  
-
-<a href="https://twitter.com/abhimanyus1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanyus1997" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhimanyu-singh-7a4b4111a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-singh-7a4b4111a" height="30" width="40" /></a>
+	<a href="https://twitter.com/abhimanyus1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanyus1997" height="30" width="40" /></a>
+	<a href="https://linkedin.com/in/abhimanyu-singh-7a4b4111a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-singh-7a4b4111a" height="30" width="40" /></a>
 </p>
 
 
