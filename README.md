@@ -156,6 +156,13 @@
 	</a>
 	    <br>Tensorflow 2.0
     </td>
+    
+   <td align="center" width="100" title="Scikit-Learn">
+	<a href="https://scikit-image.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/abhimanyus1997/abhimanyus1997/main/res/sklearn-color.svg" alt="sklearn" width="80" height="80" />
+	</a>
+	    <br>Sklearn
+    </td>
 </tr>
 </table>
 
