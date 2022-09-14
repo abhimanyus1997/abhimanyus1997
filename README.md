@@ -11,7 +11,7 @@
 
 - 🤖I’m currently doing **Masters in Automation & Robotics**
 
-- 🌱 I’m currently learning ** Python, ROS, ML, CV, Web3 ...**
+- 🌱 I’m currently learning **Deep Learning, ROS, Computer Vision, Web3 ...**
 
 - 🌏 Visit <a href="https://abhimanyus1997.github.io" target="blank" title="Abhimanyu's portfolio"> My Portfolio </a>
 
