@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family:'Monospace'">Hi <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt='👋' height='25'>, I'm Abhimanyu</h2>
-<div align='center'> Robotics Engineering - Post Graduate Student having experience in Machine Learning + Deep Learning + Computer Vision along with IoT</div>
+<div align='center'>🤖 Robotics Engineer | Deep Learning | IoT | Computer Vision | Full Stack Web Developer</div>
 </br>  
 
 <div>
@@ -8,19 +8,33 @@
 	  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" height="20px"/> </p>
 	</p>
 </div>
+- 🔬 Passionate about pushing the boundaries of technology and creating intelligent robotic systems, while also building engaging web applications.
 
-- 🤖I’m currently doing **Masters in Automation & Robotics**
+- 💡 Expertise:
+	- **Deep Learning**: Leveraging neural networks and machine learning algorithms to solve complex problems and enable robots to perceive and make intelligent decisions.
+	- **Internet of Things (IoT)**: Designing and implementing IoT solutions with a focus on edge computing, utilizing Raspberry Pi, ESP32, and Arduino for seamless communication and data processing.
+	- **Computer Vision**: Developing computer vision algorithms and techniques for object detection, tracking, and recognition, empowering robots with visual perception capabilities.
+	- **Web Development**: Building dynamic and user-friendly web applications using HTML, CSS, Bootstrap, JavaScript, Django, and Flask.
 
-- 🌱 I’m currently learning **Deep Learning, ROS, Computer Vision, Web3 ...**
+- 🔧 Skills:
+	- **Programming**: Proficient in Python, C++, and MATLAB for developing robust and efficient robotic systems, as well as JavaScript for interactive web development.
+	- **Neural Networks**: Knowledge of popular deep learning frameworks such as TensorFlow and PyTorch for training and deploying neural network models.
+	- **IoT Development**: Expertise in Raspberry Pi, ESP32, and Arduino programming for building IoT solutions. Experienced in handling communication protocols including I2C, I2S, UART, and SPI.
+	- **Edge Computing**: Implementing edge computing solutions for efficient data processing and real-time decision-making at the network edge.
+	- **IoT** Communication: Proficient in MQTT (Message Queuing Telemetry Transport) protocol for IoT communication and data exchange.
+	- **AWS**: Familiarity with basic AWS (Amazon Web Services) for cloud-based IoT deployments.
 
-- 🌏 Visit <a href="https://abhimanyus1997.github.io" target="blank" title="Abhimanyu's portfolio"> My Portfolio </a>
+-  🌏 Visit <a href="https://abhimanyus1997.github.io" target="blank" title="Abhimanyu's portfolio"> My Portfolio </a>
 
-- 📫 How to reach me **[Mail Me](mailto://abhimanyus1997+github@gmail.com)**
+- 📫 Let's connect! Feel free to reach out for collaboration or discussions related to robotics, deep learning, IoT, or web development. 
+	- **[Mail Me](mailto://abhimanyus1997+github@gmail.com)**
+	- <a href="https://linkedin.com/in/abhimanyu-singh-7a4b4111a" target="blank">**abhimanyus1997's LinkedIn: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-singh-7a4b4111a" height="15" width="20" /> </a>** 
+	-  <a href="https://twitter.com/abhimanyus1997" target="blank">**Twitter:**<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanyus1997" height="15" width="20" /></a>
 
 
 <p align="left">  
-   <a href="https://twitter.com/abhimanyus1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanyus1997" height="30" width="40" /></a>
-   <a href="https://linkedin.com/in/abhimanyu-singh-7a4b4111a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-singh-7a4b4111a" height="30" width="40" /></a>
+   <
+   
 </p>
 <center>
    <h3 align="center">Languages and Tools:</h3>
