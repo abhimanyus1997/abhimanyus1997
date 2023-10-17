@@ -12,13 +12,14 @@
 </p>
 
 <div align='center'>Computer Vision | Deep Learning | IoT | Data Analysis </div>
-</br>  
+</br> 
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
 	<p align="right" style="display: inline; margin-top:50"> 
 	  <a href="https://twitter.com/abhimanyus1997" target="blank"> <img src="https://img.shields.io/twitter/follow/abhimanyus1997?logo=twitter&style=for-the-badge" alt="abhimanyus1997" height="20px"/></a>    
 	  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" height="20px"/> </p>
-	</p>
 </div>
 
 ### BIO
@@ -62,6 +63,5 @@
   <h3 align="center">GitHub Statistics</h3>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&theme=github_dark&hide_border=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![Abhimanyus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimanyus1997&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
