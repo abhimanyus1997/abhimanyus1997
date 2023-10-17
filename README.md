@@ -20,30 +20,34 @@
 	  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" height="20px"/> </p>
 	</p>
 </div>
-- 🔬 Passionate about pushing the boundaries of technology and creating intelligent robotic systems, while also building engaging web applications.
+#### BIO
 
-- 💡 Expertise:
-	- **Deep Learning**: Leveraging neural networks and machine learning algorithms to solve complex problems and enable robots to perceive and make intelligent decisions.
-	- **Internet of Things (IoT)**: Designing and implementing IoT solutions with a focus on edge computing, utilizing Raspberry Pi, ESP32, and Arduino for seamless communication and data processing.
-	- **Computer Vision**: Developing computer vision algorithms and techniques for object detection, tracking, and recognition, empowering robots with visual perception capabilities.
-	- **Web Development**: Building dynamic and user-friendly web applications using HTML, CSS, Bootstrap, JavaScript, Django, and Flask.
+- 🌐 **Robotics and Web Development Enthusiast**
+- 🤖 Passionate about advancing technology, creating intelligent robots, and developing engaging web applications.
 
-- 🔧 Skills:
-	- **Programming**: Proficient in Python, C++, and MATLAB for developing robust and efficient robotic systems, as well as JavaScript for interactive web development.
-	- **Neural Networks**: Knowledge of popular deep learning frameworks such as TensorFlow and PyTorch for training and deploying neural network models.
-	- **IoT Development**: Expertise in Raspberry Pi, ESP32, and Arduino programming for building IoT solutions. Experienced in handling communication protocols including I2C, I2S, UART, and SPI.
-	- **Edge Computing**: Implementing edge computing solutions for efficient data processing and real-time decision-making at the network edge.
-	- **IoT** Communication: Proficient in MQTT (Message Queuing Telemetry Transport) protocol for IoT communication and data exchange.
-	- **AWS**: Familiarity with basic AWS (Amazon Web Services) for cloud-based IoT deployments.
+#### 💡 Expertise:
 
--  🌏 Visit <a href="https://abhimanyus1997.github.io" target="blank" title="Abhimanyu's portfolio"> My Portfolio </a>
+- **Deep Learning**: Leveraging neural networks and machine learning for intelligent decision-making in robotics.
+- **IoT Solutions**: Designing IoT systems with a focus on edge computing and Raspberry Pi, ESP32, and Arduino.
+- **Computer Vision**: Developing object detection, tracking, and recognition algorithms for robots.
+- **Web Development**: Building user-friendly web applications with HTML, CSS, Bootstrap, JavaScript, Django, and Flask.
 
-- 📫 Let's connect! Feel free to reach out for collaboration or discussions related to robotics, deep learning, IoT, or web development. 
-	- **[Mail Me](mailto://abhimanyus1997+github@gmail.com)**
-	- <a href="https://linkedin.com/in/abhimanyu-singh-7a4b4111a" target="blank">**abhimanyus1997's LinkedIn: <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhimanyu-singh-7a4b4111a" height="15" width="20" /> </a>** 
-	-  <a href="https://twitter.com/abhimanyus1997" target="blank">**Twitter:**<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhimanyus1997" height="15" width="20" /></a>
+#### 🔧 Skills:
 
+- **Programming**: Proficient in Python, C++, MATLAB, and JavaScript.
+- **Neural Networks**: Experience with TensorFlow and PyTorch.
+- **IoT Development**: Skilled in Raspberry Pi, ESP32, Arduino, and various communication protocols.
+- **Edge Computing**: Implementing real-time decision-making at the network edge.
+- **IoT Communication**: Proficient in MQTT for data exchange.
+- **AWS**: Familiarity with basic Amazon Web Services (AWS).
 
+#### 🌏 [My Portfolio](https://abhimanyus1997.github.io)
+
+#### 📫 Let's connect for robotics, deep learning, IoT, or web development:
+
+- ✉️ [Email](mailto:abhimanyus1997+github@gmail.com)
+- [LinkedIn](https://linkedin.com/in/abhimanyu-singh-7a4b4111a)
+- [Twitter](https://twitter.com/abhimanyus1997)
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -58,3 +62,5 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Abhimanyus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimanyus1997&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
