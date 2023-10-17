@@ -1,5 +1,5 @@
 <h2 align="center" style="font-family:'Monospace'">Hi <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt='👋' height='25'>, I'm Abhimanyu</h2>
-<div align='center'>🤖 Robotics Engineer | Deep Learning | IoT | Computer Vision | Full Stack Web Developer</div>
+<div align='center'>🤖 Robotics Engineer |  Computer Vision | Deep Learning | IoT | Data Analysis
 </br>  
 
 <div>
