@@ -20,7 +20,8 @@
 	  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&label=Profile%20views&color=0e75b6&style=flat" alt="abhimanyus1997" height="20px"/> </p>
 	</p>
 </div>
-#### BIO
+
+### BIO
 
 - 🌐 **Robotics and Web Development Enthusiast**
 - 🤖 Passionate about advancing technology, creating intelligent robots, and developing engaging web applications.
@@ -61,6 +62,6 @@
   <h3 align="center">GitHub Statistics</h3>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut)](https://github.com/anuraghazra/github-readme-stats) ![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&theme=github_dark&hide_border=true)
 
 [![Abhimanyus's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimanyus1997&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
