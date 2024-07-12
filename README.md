@@ -1,4 +1,4 @@
-<h2 align="center" style="font-family:'Monospace'">Hi , I'm Abhimanyu Singh - Robotics Engineer </h2>
+<h2 align="center" style="font-family:'Monospace'">Hi , I'm Abhimanyu Singh - Robotics Software Engineer </h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhimanyus1997" alt="abhimanyus1997"/>
