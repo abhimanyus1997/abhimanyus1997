@@ -11,6 +11,7 @@
 <p align="center">
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&theme=github_dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut">
 </p>
 
 
@@ -23,7 +24,5 @@ Let's connect: [Email](mailto:abhimanyus1997+github@gmail.com)
   </a>
 </p>
 
-### GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Activity
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimanyus1997&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
