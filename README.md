@@ -6,11 +6,11 @@
   <a href='https://twitter.com/abhimanyus1997/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
   <a href='https://www.kaggle.com/abhimanyus1997/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 </span>
-<span align="right">
+<div align="right" style="width:auto">
   <img src="https://komarev.com/ghpvc/?username=abhimanyus1997" alt="abhimanyus1997"/>
   <a href="https://github.com/abhimanyus1997?tab=repositories" target="_blank"><img src="https://badges.pufler.dev/repos/abhimanyus1997" alt="Repos"/></a>
   <a href="https://github.com/abhimanyus1997?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/abhimanyus1997?color=4C1&logo=github"></a>
-</span>
+</div>
   </div>
   <br>
 I am a polyglot programmer 👨🏻‍💻, robotics engineer wearing multiple hats  (Robotics IoT engineer 🤖, Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or UI  🎨) depending on what the project requires. I love exploring new deep learning tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
