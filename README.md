@@ -33,8 +33,11 @@
 Let's connect: [Email](mailto:abhimanyus1997+github@gmail.com)
 
 ### Languages & Tools
-
-[![Skills](https://skillicons.dev/icons?i=tensorflow,python,github,javascript,html,css,flutter)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=tensorflow,aws,vercel,docker,python,sklearn,opencv,github,flutter,dart,django,fastapi,flask,androidstudio,arduino,bash,blender,javascript,html,css,bootstrap,c,d3,codepen,git,github,gitlab,,githubactions,postman,graphql,ipfs,latex,linux,ubuntu,mint,windows,powershell,md,matlab,materialui,mongodb,mysql,postgres,sqlite,react,nextjs,nodejs,npm,yarn,vite,pycharm,pytorch,raspberrypi,vscode,sublime,regex,ps,nginx,cpp&perline=10" />
+  </a>
+</p>
 
 ### GitHub Stats
 
