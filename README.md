@@ -34,7 +34,7 @@ Let's connect: [Email](mailto:abhimanyus1997+github@gmail.com)
 
 ### Languages & Tools
 
-[![Skills](https://skillicons.dev/icons?i=tensorflow,python,github,javascript,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=tensorflow,python,github,javascript,html,css,flutter)](https://skillicons.dev)
 
 ### GitHub Stats
 
