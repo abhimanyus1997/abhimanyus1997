@@ -1,4 +1,5 @@
 ## Hey 👋, I'm Abhimanyu Singh
+<div align='left'>Computer Vision | Deep Learning | IoT | Data Analysis </div>
 
 <div>
 <span align="left">
@@ -19,7 +20,6 @@ I am a polyglot programmer 👨🏻‍💻, robotics engineer wearing multiple h
 
 
 
-<div align='center'>Computer Vision | Deep Learning | IoT | Data Analysis </div>
 
 <p align="center">
   <br>
