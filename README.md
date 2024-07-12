@@ -1,5 +1,4 @@
 ## Hey 👋, I'm Abhimanyu Singh
-<div align='left'>Computer Vision | Deep Learning | IoT | Data Analysis </div>
 
 <div>
 <span align="left">
@@ -13,7 +12,11 @@
   <a href="https://github.com/abhimanyus1997?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/abhimanyus1997?color=4C1&logo=github"></a>
 </div>
   </div>
-  <br>
+
+<div align="center">
+   <b>Computer Vision | Deep Learning | IoT | Data Analysis</b>
+</div>
+<hr>
 I am a polyglot programmer 👨🏻‍💻, robotics engineer wearing multiple hats  (Robotics IoT engineer 🤖, Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or UI  🎨) depending on what the project requires. I love exploring new deep learning tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 
