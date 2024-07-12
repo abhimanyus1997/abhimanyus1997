@@ -8,27 +8,11 @@
 
 <div align='center'>Computer Vision | Deep Learning | IoT | Data Analysis </div>
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&theme=github_dark&hide_border=true">
+</p>
 
-### BIO
-
-* Robotics & Web Development Enthusiast
-* Passionate about robotics & intelligent web applications
-
-#### Expertise
-
-* Deep Learning for Robotics
-* IoT with Raspberry Pi/ESP32/Arduino
-* Computer Vision for Object Detection
-* Web Dev (HTML/CSS/JS/Django/Flask)
-
-#### Skills
-
-* Python, C++, MATLAB, JavaScript
-* TensorFlow, PyTorch
-* AWS basics
-
-[My Portfolio](https://abhimanyus1997.github.io)
 
 Let's connect: [Email](mailto:abhimanyus1997+github@gmail.com)
 
