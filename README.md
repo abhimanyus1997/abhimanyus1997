@@ -64,7 +64,7 @@ I'm a **Software Engineer** specializing in **Gen AI**, **Computer Vision**, **D
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&hide_border=true" alt="Profile Details"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyus1997&layout=pie" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/abhimanyus1997/github-stats/refs/heads/master/generated/languages.svg" alt="Top Languages"/>
 </p>
 
 ---
