@@ -37,9 +37,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** specializing in **Gen AI**, **Computer Vision**, **Deep Learning**, and **IoT**. With a background in **Robotics** and **Data Science**, I build innovative solutions like multilingual conversational AI, facial recognition systems, and real-time analytics dashboards. I’m passionate about leveraging tools like **LangChain**, **TensorFlow**, **FastAPI**, and **AWS** to create impactful projects. My work spans **full-stack development**, **mobile apps**, and **ML pipelines**, with a focus on delivering actionable insights.
+I'm a **Software Engineer** specializing in **Gen AI**, **Data Science**, **Computer Vision**, and **Industrial IoT**. With a background in **Robotics** and **AI Research**, I build innovative solutions like multilingual conversational AI, facial recognition systems, and real-time analytics dashboards. I’m passionate about leveraging tools like **LangChain/LLamaIndex (for LLM Workflows)**, **Agentic AI Frameworks (like crewAI, agnoAI)**, **FastAPI/Flask (for Model Inference)**,**Flutter (for Desktop/Mobile Deployment)** ,and **AWS (for Cloud Deployment)** to create impactful projects. My work spans **full-stack AI development**, **mobile apps**, and **ML pipelines**, with a focus on delivering actionable insights.
 
-📧 Let's connect: [abhimanyus1997+github@gmail.com](mailto:abhimanyus1997+github@gmail.com)
+📧 Let's connect: [abhimanyus1997@gmail.com](mailto:abhimanyus1997@gmail.com)
 
 ---
 
