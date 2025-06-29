@@ -2,7 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=007987&background=FF000000&width=435&lines=Machine+Learning;Data+Science;Generative+AI;Computer+Vision;Industrial+IoT)](https://git.io/typing-svg)
 
+
+<!-- Stats & Activity -->
+
+
 ## Github History
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhimanyus1997&theme=dark)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&hide_border=true" alt="Profile Details"/>
 
 
