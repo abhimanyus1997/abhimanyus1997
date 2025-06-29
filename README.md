@@ -73,7 +73,7 @@ My strength lies in **full-stack AI development**, from building ML pipelines to
 </p>
 
 ### 📱 Mobile Development
-<p>
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=6" />
 </a>
