@@ -22,12 +22,23 @@
 
 
 ---
-
 ## 🧑‍💻 About Me
 
-I'm a **Software Engineer** specializing in **Gen AI**, **Data Science**, **Computer Vision**, and **Industrial IoT**. With a background in **Robotics** and **AI Research**, I build innovative solutions like multilingual conversational AI, facial recognition systems, and real-time analytics dashboards. I’m passionate about leveraging tools like **LangChain/LLamaIndex (for LLM Workflows)**, **Agentic AI Frameworks (like crewAI, agnoAI)**, **FastAPI/Flask (for Model Inference)**,**Flutter (for Desktop/Mobile Deployment)** ,and **AWS (for Cloud Deployment)** to create impactful projects. My work spans **full-stack AI development**, **mobile apps**, and **ML pipelines**, with a focus on delivering actionable insights.
+I am a **Software Engineer** passionate about building **real-world AI-powered solutions**. My expertise spans **Generative AI, Data Science, Computer Vision, Industrial IoT, and Robotics**, where I combine research-backed approaches with practical deployment.
 
-📧 Let's connect: [abhimanyus1997@gmail.com](mailto:abhimanyus1997@gmail.com)
+I have designed and delivered projects like **multilingual conversational agents, facial recognition systems, real-time analytics dashboards, and AI-driven mobile applications**. My focus is always on building scalable, production-ready systems that create real impact.
+
+I actively work with:
+
+* **LangChain & LlamaIndex** for LLM-powered workflows
+* **Agentic AI frameworks** like crewAI and agnoAI
+* **FastAPI & Flask** for efficient model deployment
+* **Flutter** for cross-platform (desktop & mobile) apps
+* **AWS** for robust cloud infrastructure
+
+My strength lies in **full-stack AI development**, from building ML pipelines to developing user-centric mobile and web interfaces, always driven by continuous learning and a commitment to excellence.
+
+📧 **Let's Connect:** [abhimanyus1997@gmail.com](mailto:abhimanyus1997@gmail.com)
 
 ---
 
