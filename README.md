@@ -44,10 +44,53 @@ My strength lies in **full-stack AI development**, from building ML pipelines to
 
 ## 🛠️ Technical Skills
 
+### 🚀 Machine Learning & Data Science
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,aws,vercel,docker,python,sklearn,opencv,github,flutter,dart,django,fastapi,flask,androidstudio,arduino,bash,blender,javascript,html,css,bootstrap,c,d3,codepen,git,github,gitlab,githubactions,postman,graphql,ipfs,latex,linux,ubuntu,mint,windows,powershell,md,matlab,materialui,mongodb,mysql,postgres,sqlite,react,nextjs,nodejs,npm,yarn,vite,pycharm,pytorch,raspberrypi,vscode,sublime,regex,ps,nginx,cpp&perline=10" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,matlab,anaconda,&perline=10" />
+</a>
+</p>
+
+### 💻 Programming Languages
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,dart,bash,&perline=10" />
+</a>
+</p>
+
+### 🌐 Web Development
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,django,fastapi,flask,npm,yarn,vite,d3,graphql,nginx,tailwind,webflow,&perline=10" />
+</a>
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,firebase,redis,githubactions,&perline=10" />
+</a>
+</p>
+
+### 📱 Mobile Development
+<p>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=10" />
+</a>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,ipfs,&perline=10" />
+</a>
+</p>
+
+### 🔧 Tools & Other
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=github,git,gitlab,postman,vscode,sublime,pycharm,androidstudio,arduino,blender,codepen,latex,linux,ubuntu,mint,windows,powershell,md,materialui,raspberrypi,regex,ps,selenium,&perline=10" />
+</a>
 </p>
 
 ---
