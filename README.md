@@ -1,37 +1,25 @@
 ![Hi, I am Abhimanyu Singh](https://raw.githubusercontent.com/abhimanyus1997/abhimanyus1997/refs/heads/main/res/github-header-image%20(1).png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=3000&pause=1000&color=007987&background=FF000000&width=435&lines=Machine+Learning;Data+Science;Generative+AI;Computer+Vision;Industrial+IoT)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=3000&pause=1000&color=41b883&background=FF000000&width=435&lines=AI+Engineer+%7C+Problem+Solver;ML+%7C+GenAI+%7C+Computer+Vision;Industrial+IoT+Applications;Real-World+AI+Solutions;Scalable+%26+Impactful+Systems;Continuous+Learning+%7C+Growth)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDUwIDUwIj48cGF0aCBkPSJNIDkgNCBDIDYuMjUwNDgzOSA0IDQgNi4yNTA0ODM5IDQgOSBMIDQgNDEgQyA0IDQzLjc0OTUxNiA2LjI1MDQ4MzkgNDYgOSA0NiBMIDQxIDQ2IEMgNDMuNzQ5NTE2IDQ2IDQ2IDQzLjc0OTUxNiA0NiA0MSBMIDQ2IDkgQyA0NiA2LjI1MDQ4MzkgNDMuNzQ5NTE2IDQgNDEgNCBMIDkgNCB6IE0gOSA2IEwgNDEgNiBDIDQyLjY2ODQ4NCA2IDQ0IDcuMzMxNTE2MSA0NCA5IEwgNDQgNDEgQyA0NCA0Mi42Njg0ODQgNDIuNjY4NDg0IDQ0IDQxIDQ0IEwgOSA0NCBDIDcuMzMxNTE2MSA0NCA2IDQyLjY2ODQ4NCA2IDQxIEwgNiA5IEMgNiA3LjMzMTUxNjEgNy4zMzE1MTYxIDYgOSA2IHogTSAxNCAxMS4wMTE3MTkgQyAxMi45MDQ3NzkgMTEuMDExNzE5IDExLjkxOTIxOSAxMS4zMzkwNzkgMTEuMTg5NDUzIDExLjk1MzEyNSBDIDEwLjQ1OTY4NyAxMi41NjcxNzEgMTAuMDExNzE5IDEzLjQ4NDUxMSAxMC4wMTE3MTkgMTQuNDY2Nzk3IEMgMTAuMDExNzE5IDE2LjMzMzk3NyAxMS42MzEyODUgMTcuNzg5NjA5IDEzLjY5MTQwNiAxNy45MzM1OTQgQSAwLjk4ODA5ODc4IDAuOTg4MDk4NzggMCAwIDAgMTMuNjk1MzEyIDE3LjkzNTQ3IEEgMC45ODgwOTg3OCAwLjk4ODA5ODc4IDAgMCAwIDE0IDE3Ljk4ODI4MSBDIDE2LjI3MzAxIDE3Ljk4ODI4MSAxNy45ODgyODEgMTYuMzk2MDgzIDE3Ljk4ODI4MSAxNC40NjY3OTcgQSAwLjk4ODA5ODc4IDAuOTg4MDk4NzggMCAwIDAgMTcuOTg2Mjg0IDE0LjQxNDA2MiBDIDE3Ljg4NDU3NyAxMi41MTM4MzEgMTYuMTkwNDQzIDExLjAxMTcxOSAxNCAxMS4wMTE3MTkgeiBNIDE0IDEyLjk4ODI4MSBDIDE1LjM5MjIzMSAxMi45ODgyODEgMTUuOTQxOTcwIDEzLjYxMDAzOCAxNi4wMDE5NTMgMTQuNDkyMTg4IEMgMTUuOTg5MDMwIDE1LjM0ODQzNCAxNS40NjAwOTEgMTYuMDExNzE5IDE0IDE2LjAxMTcxOSBDIDEyLjYxNDU5NCAxNi4wMTE3MTkgMTEuOTg4MjgxIDE1LjMwMjIyNSAxMS45ODgyODEgMTQuNDY2Nzk3IEMgMTEuOTg4MjgxIDE0LjA0OTA4MyAxMi4xNDA3MDMgMTMuNzM0Mjk4IDEyLjQ2MDkzOCAxMy40NjQ4NDQgQyAxMi43ODE3MDEgMTMuMTk1MzkwIDEzLjI5NTIyMSAxMi45ODgyODEgMTQgMTIuOTg4MjgxIHogTSAxMSAxOSBBIDEuMDAwMSAxLjAwMDEgMCAwIDAgMTAgMjAgTCAxMCAzOSBBIDEuMDAwMSAxLjAwMDEgMCAwIDAgMTEgNDAgTCAxNyA0MCBBIDEuMDAwMSAxLjAwMDEgMCAwIDAgMTggMzkgTCAxOCAzMy4xMzQ3NjYgTCAxOCAyMCBBIDEuMDAwMSAxLjAwMDEgMCAwIDAgMTcgMTkgTCAxMSAxOSB6IE0gMjAgMTkgQSAxLjAwMDEgMS4wMDAxIDAgMCAwIDE5IDIwIEwgMTkgMzkgQSAxLjAwMDEgMS4wMDAxIDAgMCAwIDIwIDQwIEwgMjYgNDAgQSAxLjAwMDEgMS4wMDAxIDAgMCAwIDI3IDM5IEwgMjcgMjkgQyAyNyAyOC4xNzAzMzMgMjcuMjI2Mzk0IDI3LjM0NTAzNSAyNy42MjUgMjYuODA0Njg4IEMgMjguMDIzNjA2IDI2LjI2NDMzOSAyOC41MjY0NjYgMjUuOTQwMDU3IDI5LjQ4MjQyMiAyNS45NTcwMzEgQyAzMC40NjgxNjYgMjUuOTczOTgxIDMwLjk4OTk5OSAyNi4zMTE2NjkgMzEuMzg0NzY2IDI2Ljg0MTc5NyBDIDMxLjc3OTUzMiAyNy4zNzE5MjQgMzIgMjguMTY2NjY3IDMyIDI5IEwgMzIgMzkgQSAxLjAwMDEgMS4wMDAxIDAgMCAwIDMzIDQwIEwgMzkgNDAgQSAxLjAwMDEgMS4wMDAxIDAgMCAwIDQwIDM5IEwgNDAgMjguMjYxNzE5IEMgNDAgMjUuMzAwMTgxIDM5LjEyMjc4OCAyMi45NTQzMyAzNy42MTkxNDEgMjEuMzY3MTg4IEMgMzYuMTE1NDkzIDE5Ljc4MDA0NCAzNC4wMjQxNzIgMTkgMzEuODEyNSAxOSBDIDI5LjcxMDQ4MyAxOSAyOC4xMTA4NTMgMTkuNzA0ODg5IDI3IDIwLjQyMzgyOCBMIDI3IDIwIEEgMS4wMDAxIDEuMDAwMSAwIDAgMCAyNiAxOSBMIDIwIDE5IHogIiBmaWxsPSIjZmZmZmZmIi8+PC9zdmc+&logoColor=white)](https://www.linkedin.com/in/abhimanyus1997)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/abhimanyus1997)
+[![Kaggle](https://img.shields.io/badge/Kaggle-800080?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abhimanyus1997)
+[![Profile Views](https://komarev.com/ghpvc/?username=abhimanyus1997&color=023047&style=for-the-badge)](https://github.com/abhimanyus1997)
+[![GitHub Followers](https://img.shields.io/github/followers/abhimanyus1997?label=Followers&color=ffb703&style=for-the-badge&logo=github&logoColor=white)](https://github.com/abhimanyus1997?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/abhimanyus1997?style=for-the-badge&color=fb8500&logo=github&logoColor=white)](https://github.com/abhimanyus1997?tab=stars)
+
 
 
 <!-- Stats & Activity -->
 
 
 ## Github History
-  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=abhimanyus1997&theme=dark)
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimanyus1997&hide_border=true" alt="Profile Details"/>
 
 
-<div align="center" style="margin: 10px 0;">
-  <a href="https://www.linkedin.com/in/abhimanyus1997">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height="24px" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/abhimanyus1997">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height="24px" alt="Twitter"/>
-  </a>
-  <a href="https://www.kaggle.com/abhimanyus1997">
-    <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height="24px" alt="Kaggle"/>
-  </a>
-</div>
 
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://komarev.com/ghpvc/?username=abhimanyus1997&color=blue&style=flat-square" alt="Profile Views"/>
-  <a href="https://github.com/abhimanyus1997?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/abhimanyus1997" alt="Repositories"/>
-  </a>
-  <a href="https://github.com/abhimanyus1997?tab=followers">
-    <img src="https://img.shields.io/github/followers/abhimanyus1997?color=4C1&logo=github&style=flat-square" alt="Followers"/>
-  </a>
-</div>
 
 ---
 
