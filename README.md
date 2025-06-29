@@ -47,49 +47,49 @@ My strength lies in **full-stack AI development**, from building ML pipelines to
 ### 🚀 Machine Learning & Data Science
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,matlab,anaconda,&perline=10" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,matlab,anaconda&perline=6" />
 </a>
 </p>
 
 ### 💻 Programming Languages
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,dart,bash,&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,dart,bash&perline=6" />
 </a>
 </p>
 
 ### 🌐 Web Development
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,django,fastapi,flask,npm,yarn,vite,d3,graphql,nginx,tailwind,webflow,&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,django,fastapi,flask,npm,yarn,vite,d3,graphql,nginx,tailwind,webflow&perline=6" />
 </a>
 </p>
 
 ### ☁️ Cloud & DevOps
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker,firebase,redis,githubactions,&perline=10" />
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,firebase,githubactions&perline=6" />
 </a>
 </p>
 
 ### 📱 Mobile Development
 <p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=10" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=6" />
 </a>
 </p>
 
 ### 🗄️ Databases
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,ipfs,&perline=10" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,ipfs&perline=6" />
 </a>
 </p>
 
 ### 🔧 Tools & Other
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,gitlab,postman,vscode,sublime,pycharm,androidstudio,arduino,blender,codepen,latex,linux,ubuntu,mint,windows,powershell,md,materialui,raspberrypi,regex,ps,selenium,&perline=10" />
+<img src="https://skillicons.dev/icons?i=github,git,gitlab,postman,vscode,sublime,pycharm,androidstudio,arduino,blender,codepen,latex,linux,ubuntu,mint,windows,powershell,md,materialui,raspberrypi,regex,ps,selenium&perline=6" />
 </a>
 </p>
 
