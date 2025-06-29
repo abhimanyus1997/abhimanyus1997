@@ -100,12 +100,12 @@ My strength lies in **full-stack AI development**, from building ML pipelines to
 - **Resume JD Matcher** (2025)  
   **Tech Stack**: Python, NLTK, LangChain, Gemini 2.5 Flash, Streamlit, Plotly  
   Built an AI-powered job matching tool using NLTK, Streamlit, and Gemini 2.5 Flash. Features dynamic skill extraction, match scoring, and radar chart visualizations for resume-job alignment. Engineered TF-IDF scoring for candidate-job relevance and developed a Streamlit dashboard with PDF/doc parsing and dynamic Plotly visualizations, automating insight generation and producing custom PDF reports for recruiters.  
-  [🔗 View Repository](https://github.com/abhimanyus1997?tab=repositories)
-
+  
 - **CryptoTracker** (2023)  
   **Tech Stack**: Flask, LSTM, SQLite, WebSockets, Chart.js  
   Developed a real-time crypto wallet dashboard with Flask, SQLite, and Chart.js, featuring LSTM-based price forecasting and WebSocket API integration for live Ethereum tracking. Provided user account summaries, token tracking, and segmentation analytics, optimized for mobile access.  
-  [🔗 View Repository](https://github.com/abhimanyus1997?tab=repositories)
+  [🔗 View Live](https://abhimanyus1997.github.io/cryptoTracker)
+
 
 - **LangChain One** (2023)  
   **Tech Stack**: LlamaIndex, LangChain, EasyOCR, YOLOV8  
